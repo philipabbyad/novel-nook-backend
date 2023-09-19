@@ -24,11 +24,9 @@ hs_err_pid*
 replay_pid*
 
 
-<<<<<<< HEAD
 #idea (IntelliJ)
 /.idea/
 
 #gradle
 /.gradle/
 /build/
->>>>>>> 3b75db0 (Corrected git ignore for IntelliJ and Gradle)
